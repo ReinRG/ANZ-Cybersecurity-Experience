@@ -1,5 +1,3 @@
-# ANZ-Cybersecurity-Experience
-
 # 🛡️ ANZ Cyber Security Virtual Experience Program (Forage)
 
 This repository contains my completed work for the **ANZ Cyber Security Virtual Experience Program**, hosted by [Forage](https://www.theforage.com/). This program simulates real-world tasks of a Security Operations Center (SOC) Analyst at ANZ and focuses on threat detection, analysis, and reporting.
