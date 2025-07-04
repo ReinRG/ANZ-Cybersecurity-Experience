@@ -38,6 +38,27 @@ This repository contains my completed work for the **ANZ Cyber Security Virtual 
 - Real-world SOC workflows and communication
 
 ---
+---
 
-## 📂 Repository Structure
+## 📄 Certificate
+
+> *Certificate of completion available upon request or can be linked here.*
+
+---
+
+## 🙋‍♂️ About Me
+
+I’m an aspiring cybersecurity professional currently building hands-on skills in threat detection, SOC operations, and digital forensics through simulations and training programs like this one.
+
+---
+
+## 📫 Contact
+
+- GitHub: ReinRG(https://github.com/ReinRG)  
+- LinkedIn: Reinier Jewel Gecole (https://www.linkedin.com/in/reinier-jewel-gecole-32431a235/)  
+- Email: rein.cybsec@gmail.com
+
+---
+
+> ⚠️ *This project is a simulation-based submission and is not officially affiliated with ANZ or Forage.*
 
